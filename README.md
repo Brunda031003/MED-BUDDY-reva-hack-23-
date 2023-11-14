@@ -1,5 +1,5 @@
 Hello!
-This is the souce code for my team's project of REVA HACK 2023
+This is the souce code of my team's project for REVA HACK 2023
 
 "MED BUDDY" is a Disease Predicting Web Application integracted with chatbot. It is an AI ML model. It aims to redefine healthcare with a personalized touch.
 
